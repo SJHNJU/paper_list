@@ -1,0 +1,81 @@
+﻿Surveys:
+[1] Transformers in Vision: A Survey
+[2] A Survey on Visual Transformer
+
+Papers:
+[1] Improve Vision Transformers Training by Suppressing Over-smoothing
+[2] Visformer: The Vision-friendly Transformer
+[3] Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet
+[4] So-ViT: Mind Visual Tokens for Vision Transformer
+[5] Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet
+[6] Bottleneck Transformers for Visual Recognition
+[7] Conditional Positional Encodings for Vision Transformers
+[8] Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+[9] ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases
+[10] Incorporating Convolution Designs into Visual Transformers
+[11] DeepViT: Towards Deeper Vision Transformer
+[12] TransFG: A Transformer Architecture for Fine-grained Recognition
+[13] Vision Transformers for Dense Prediction
+[14] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows_CVPR2021
+[15] Global Self-Attention Networks for Image Recognition
+[16] Understanding Robustness of Transformers for Image Classification
+[17] On the Adversarial Robustness of Visual Transformers
+[18] Face Transformer for Recognition
+[19] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification
+[20] Centroid Transformers: Learning to Abstract with Attention
+[21] Perceiver: General Perception with Iterative Attention
+[22] CvT: Introducing Convolutions to Vision Transformers
+[23] Training data-efficient image transformers & distillation through attention
+[24] Going deeper with Image Transformers
+[25] LocalViT: Bringing Locality to Vision Transformers
+[26] Co-Scale Conv-Attentional Image Transformers
+[27] Transformer in Transformer
+[28] An Empirical Study of Training Self-Supervised Vision Transformers
+[29] SiT: Self-supervised vision Transformer
+[30] Multiscale Vision Transformers
+[31] Reformer The Efficient Transformer_ICLR2020
+[32] Rethinking Attention with Performers_ICLR2021
+[33] End to-end object detection with transformers
+[34] Visual Transformer Pruning
+[35] Visual Transformers: Token-based Image Representation and Processing for Computer Vision
+[36] General Multi-label Image Classification with Transformers
+[37] Feature Pyramid Transformer_ECCV20
+[38] LambdaNetworks: Modeling long-range Interactions without Attention_ICLR2021
+[39] An Image is Worth 16x16 Words Transformers for Image Recognition at Scale_ICLR2021
+[40] Pre-Trained Image Processing Transformer_CVPR2021
+[41] Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning_CVPR2021
+[42] Transformer Interpretability Beyond Attention Visualization_CVPR2021
+[43] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers
+[44] Rethinking Spatial Dimensions of Vision Transformers
+[45] BossNAS: Exploring Hybrid CNN-transformers with Block-wiselySelf-supervised Neural Architecture Search 
+[46] Scaling Local Self-Attention for Parameter Efficient Visual Backbones_CVPR2021
+[47] Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding
+[48] On the Relationship between Self-Attention and Convolutional Layers_ICLR2020
+[49] Attention Augmented Convolutional Networks_ICCV2019
+[50] Stand-alone-self-attention-in-vision-models_NeurIPS2019
+[51] Twins: Revisiting the Design of Spatial Attention in Vision Transformers
+[52] Emerging Properties in Self-Supervised Vision Transformers
+[53] Self-Supervised Learning with Swin Transformers
+[54][已读] Conformer: Local Features Coupling Global Representations for Visual Recognition
+[55] Rethinking the Design Principles of Robust Vision Transformer
+[56] Vision Transformers are Robust Learners
+[57] LeViT: a Vision Transformer in ConvNet’s Clothing for Faster Inference
+[58] ResT: An Efficient Transformer for Visual Recognition
+[59] MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens
+[60] Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length
+[61] Less is More: Pay Less Attention in Vision Transformers
+[62] An Attention Free Transformer
+[63] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification
+[64] When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations
+[65] KVT: k-NN Attention for Boosting Vision Transformers
+[66] Less is More: Pay Less Attention in Vision Transformers
+[67] Glance-and-Gaze Vision Transformer
+[68] Transformer in Convolutional Neural Networks  
+[69] ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias
+[70] Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer
+[71] Refiner: Refining Self-attention for Vision Transformers
+[72] Incremental False Negative Detection for Contrastive Learning
+[73] Reveal of Vision Transformers Robustness against Adversarial Attacks
+[74] Efficient Training of Visual Transformers with Small-Size Datasets
+[75] RegionViT: Regional-to-Local Attention for Vision Transformers
+[76] Patch Slimming for Efficient Vision Transformers
